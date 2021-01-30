@@ -4,16 +4,6 @@ This repository shows you how to use Node (version 8+) and Stripe to create recu
 
 It uses Express for creating a simple server, Nunjucks for templating, and the Stripe API.
 
-
-## Tutorial 
-
-We’ve written 2 detailed tutorials about this code on the 🌟 CodeNebula blog:
-
-🌟[How to Set up a Basic Node Application with Stripe](https://codenebula.io/node.js/stripe/2020/03/03/how-to-set-up-a-basic-node-application-with-stripe/)
-
-🌟[How to use Stripe’s new Payment Intents API with Node.js to create subscriptions with built-in SCA](https://codenebula.io/node.js/stripe/sca/2020/03/03/how-to-use-stripes-new-payment-intents-api-with-node-js-to-create-subscriptions-with-built-in-sca/)
-
-
 ## Instructions
 
 1. Clone this repository
@@ -25,23 +15,3 @@ We’ve written 2 detailed tutorials about this code on the 🌟 CodeNebula blo
 7. Navigate to [localhost:3000](http://localhost:3000/)
 
 
-## Demo Workflow
-
-![](https://stripemadeeasy.s3.amazonaws.com/stripe-subscriptions-2020%3Aworkflow1.png)
-
-![](https://stripemadeeasy.s3.amazonaws.com/stripe-subscriptions-2020%3Aworkflow2.png)
-
-![](https://stripemadeeasy.s3.amazonaws.com/stripe-subscriptions-2020%3Aworkflow3.png)
-
-![](https://stripemadeeasy.s3.amazonaws.com/stripe-subscriptions-2020%3Aworkflow4.png)
-
-![](https://stripemadeeasy.s3.amazonaws.com/stripe-subscriptions-2020%3Aworkflow5.png)
-
-![](https://stripemadeeasy.s3.amazonaws.com/stripe-subscriptions-2020%3Aworkflow6.png)
-
-
-## What's changed from the last time we set up subscriptions
-
-![](https://stripemadeeasy.s3.amazonaws.com/stripe-subscriptions-2020%3Aold-subscription-way.png)
-
-![](https://stripemadeeasy.s3.amazonaws.com/stripe-subscriptions-2020%3Anew-subscription-way.png)
